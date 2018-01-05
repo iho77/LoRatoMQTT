@@ -43,7 +43,7 @@ void logo(){
 
  
 const char* ssid = "iho-iot";
-const char* password =  "pkjgjk_wifi";
+const char* password =  "*****";
 const char* mqttServer = "192.168.1.110";
 const int mqttPort = 1883;
 const char* mqttUser = "";
